@@ -16,7 +16,7 @@ public class C12Test {
 
 	@Test
 	public void testMA() {
-		assertEquals("m1", c.mA());
+		assertEquals("mA", c.mA());
 	}
 
 	
